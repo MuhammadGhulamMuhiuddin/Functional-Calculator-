@@ -1,2 +1,2 @@
 # Functional-Calculator-
-functional-calculator-eta.vercel.app
+https://functional-calculator-eta.vercel.app/?vercelToolbarCode=qUGAG5Zvh0JB2ao
